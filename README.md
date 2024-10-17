@@ -4,6 +4,7 @@
 
 
 
+
 # 💫 About Me:
 🔭 I’m currently working on: Enhancing my skills in data analysis<br><br>👯 I’m looking to collaborate on: Entry-level data analysis projects, creating dashboards in Power BI, and optimizing SQL queries.<br><br>🤝 I’m looking for help with: Improving my data visualization techniques and gaining experience in real-world data projects.<br><br>🌱 I’m currently learning: Data analysis using Python, SQL for database management, and Power BI for business intelligence.<br><br>💬 Ask me about: My recent projects in analysis, dashboard creation, and data cleaning techniques.<br><br>⚡ Fun fact: I love finding patterns in data, and I’m always curious to learn new ways to solve problems using data!
 
